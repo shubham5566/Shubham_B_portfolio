@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './componants/header/Header'
 import Nav from './componants/nav/Nav'
 import About from './componants/about/About'
